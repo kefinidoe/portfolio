@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow internal/private folders
+Disallow: /api/
+Disallow: /_internal/
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://kelvin-kimani.lovable.app/sitemap.xml
